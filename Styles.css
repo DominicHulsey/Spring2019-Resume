@@ -1,0 +1,20 @@
+section h1 {
+  background-color: rgb(71, 183, 244);
+}
+
+h1 {
+  background-color: red;
+}
+
+.summary-title {
+  background-color: seagreen;
+}
+
+header {
+  text-align: center;
+}
+
+header h1:hover{
+  color:purple;
+  font-size:35px;
+}
